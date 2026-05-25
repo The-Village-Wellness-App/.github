@@ -13,7 +13,7 @@
 > * [Documentation:]() [here,](https://github.com/The-Village-Wellness-App/.github/blob/main/profile/README.md) [here,](https://github.com/The-Village-Wellness-App/village-backend/blob/main/README.md) [and here!](https://github.com/The-Village-Wellness-App/village-frontend/blob/main/README.md)
 > * [Our JavaScript Style Guide]()
 
-## Context
+## Organisation Context
 
 This project was created as part of an academic Web Development assessment using MongoDB, Express.js, React and Node.js (MERN Stack). The Village Wellness App organisation is made up of a documentation repository, a backend application repository, and a frontend application respository.
 
