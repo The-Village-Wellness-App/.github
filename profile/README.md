@@ -12,7 +12,7 @@
 > * [Our Front-End Repository - **Under Construction**](https://github.com/The-Village-Wellness-App/village-frontend)
 > * [Our Back-End Repository](https://github.com/The-Village-Wellness-App/village-backend)
 > * [Our Project Documentation:](https://github.com/The-Village-Wellness-App/village-documentation/blob/main/README.md) [Organisation README,](https://github.com/The-Village-Wellness-App/.github/blob/main/profile/README.md) [Frontend README,](https://github.com/The-Village-Wellness-App/village-backend/blob/main/README.md) [and Backend README!](https://github.com/The-Village-Wellness-App/village-frontend/blob/main/README.md)
-> * [Our JavaScript Style Guide]()
+> * [Our JavaScript Style Guide](https://github.com/The-Village-Wellness-App/village-documentation/blob/main/JavaScriptStyleGuide.md)
 
 ## The Village Organisation
 
@@ -26,6 +26,7 @@ Project work is seperated into two kanban project boards - one was used for [pro
 * [Tech Stack](#tech-stack)
 * [Intended Audience](#example-user-personas)
 * [Getting Started](#getting-started)
+* []()
 
 ## The Village Wellness App
 
@@ -75,3 +76,9 @@ git clone https://github.com/The-Village-Wellness-App/village-backend.git
 npm install
 npm run dev
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE]() file for details.
+
+This project uses third-party technologies including MongoDB, which is licensed under the Server Side Public License (SSPL).
