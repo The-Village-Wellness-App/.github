@@ -54,13 +54,13 @@ The Village Wellness App is intended for all persons, who may be wanting to trac
 
 ### Example User Personas
 
-![Persona: Priya](./images/1.png)
+![Persona: Priya](./images/persona1.png)
 
-![Persona: Marc](./images/2.png)
+![Persona: Marc](./images/persona2.png)
 
-![Persona: Destiny](./images/3.png)
+![Persona: Destiny](./images/persona3.png)
 
-![Persona: Selwyn](./images/4.png)
+![Persona: Selwyn](./images/persona4.png)
 
 ## Contributing
 
