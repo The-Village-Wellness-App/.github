@@ -12,7 +12,7 @@
 > * [Our Front-End Repository - **Under Construction**](https://github.com/The-Village-Wellness-App/village-frontend)
 > * [Our Back-End Repository](https://github.com/The-Village-Wellness-App/village-backend)
 > * [Our Project Documentation:](https://github.com/The-Village-Wellness-App/village-documentation/blob/main/README.md) [Organisation README,](https://github.com/The-Village-Wellness-App/.github/blob/main/profile/README.md) [Frontend README,](https://github.com/The-Village-Wellness-App/village-backend/blob/main/README.md) [and Backend README!](https://github.com/The-Village-Wellness-App/village-frontend/blob/main/README.md)
-> * [Our JavaScript Style Guide](https://github.com/The-Village-Wellness-App/village-documentation/blob/main/JavaScriptStyleGuide.md)
+> * [Our JavaScript Style Guide](https://github.com/The-Village-Wellness-App/village-documentation/blob/main/javascript-style-guide.md)
 
 ## The Village Organisation
 
