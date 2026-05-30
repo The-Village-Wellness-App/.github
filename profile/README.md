@@ -25,8 +25,9 @@ Project work is seperated into two kanban project boards - one was used for [pro
 * [Purpose of The Village Wellness App](#the-village-wellness-app)
 * [Tech Stack](#tech-stack)
 * [Intended Audience](#example-user-personas)
-* [Getting Started](#getting-started)
-* []()
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
 
 ## The Village Wellness App
 
@@ -61,7 +62,11 @@ The Village Wellness App is intended for all persons, who may be wanting to trac
 
 ![Persona: Selwyn](./images/4.png)
 
-## Getting Started
+## Contributing
+
+Thank you for your interest in contributing to this project.
+
+### Getting Started
 
 Repository options:
 
@@ -69,7 +74,7 @@ Repository options:
 * village-backend
 * village-documentation
 
-### Example: Backend
+#### Example: Backend
 
 ```js
 git clone https://github.com/The-Village-Wellness-App/village-backend.git
@@ -77,8 +82,56 @@ npm install
 npm run dev
 ```
 
+### Development Workflow
+
+Create a new branch from the main branch.
+
+```js
+git checkout -b feature/your-feature-name
+```
+
+Make your changes. Commit using clear and descriptive commit messages.
+
+```js
+git commit -m "Add user profile validation"
+```
+
+Push your branch and create a pull request.
+
+### Code Standards
+
+* Follow existing project conventions
+* Write clear and maintainable code
+* Test changes before submitting
+* Keep pull requests focused on a single feature or fix
+
+### Issues
+
+Before creating a new issue:
+
+* Check whether a similar issue already exists
+* Provide clear reproduction steps
+* Include relevant screenshots or logs when appropriate
+
+### Pull Requests
+
+When submitting a pull request:
+
+* Describe the purpose of the change
+* Reference any related issues
+* Ensure the application builds successfully
+* Confirm that existing functionality has not been broken
+
+### Code of Conduct
+
+Contributors are expected to communicate respectfully and collaborate professionally throughout the project.
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
 This project uses third-party technologies including MongoDB, which is licensed under the Server Side Public License (SSPL).
+
+## Authors
+
+Created by [WhiteHotThrash](https://github.com/tim-maastricht) & [✨BeeGeeEss✨](https://github.com/BeeGeeEss)
